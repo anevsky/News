@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  Belarus
+
+  Created by Alex Nevsky on 11/19/16.
+  Copyright © 2016 Alex Nevsky. All rights reserved.
+*/
+
+"Belarus" = "Belarus";
+"About" = "About";
+
+"Menu" = "Menu";
+"Page" = "Page";
+"Note" = "Note";
+"Article" = "Article";
+"News" = "News";
+"Comments" = "Comments";
+
+"Main" = "Main";
+
+"Unfortunately, nothing was found. Please try again later." = "Unfortunately, nothing was found. Please try again later.";
+"Something wrong with Internet. Please try again later." = "Something wrong with Internet. Please try again later.";
+"Oops!.. Some error occurred. Please try again later." = "Oops!.. Some error occurred. Please try again later.";
+
+"Can't send email. Please check mail client and/or SIM card." = "Can't send email. Please check mail client and/or SIM card.";
+
+"Rate App" = "Rate App";
+"Thank you for using app. Please rate this app" = "Thank you for being with us.\nPlease give us as much love as you can ( ˘ ³˘)♥";
+"Please tell us what you want this app be" = "Please tell us how to improve the app.";
+
+"Thumbs up!" = "Thumbs up!";
+"Nice" = "Nice";
+"Not good" = "Not good";
+"Thanks!" = "Thanks!";
+
+"Not now" = "Not now";
+"Write" = "Write";
+
+"Error" = "Error";
+
+"I want to tell you about app the following" = "I want to tell you about the app the following";
+"I love this amazing app!" = "I love this amazing app! Unbelievably great like never before and all this is here right in my phone. Wow ^_^";

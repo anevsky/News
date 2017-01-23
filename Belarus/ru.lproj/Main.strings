@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Rate this app"; ObjectID = "3Np-rH-Ebo"; */
+"3Np-rH-Ebo.text" = "Оценить приложение";
+
+/* Class = "UITableViewSection"; headerTitle = "Articles"; ObjectID = "Bl1-Wn-HSx"; */
+"Bl1-Wn-HSx.headerTitle" = "Статьи";
+
+/* Class = "UILabel"; text = "Feedback"; ObjectID = "FUx-zj-sXl"; */
+"FUx-zj-sXl.text" = "Обратная связь";
+
+/* Class = "UILabel"; text = "People"; ObjectID = "Icd-mc-Hkd"; */
+"Icd-mc-Hkd.text" = "Люди";
+
+/* Class = "UILabel"; text = "Entertainment"; ObjectID = "JiB-Xn-H5Q"; */
+"JiB-Xn-H5Q.text" = "Развлечения";
+
+/* Class = "UITableViewSection"; headerTitle = "App"; ObjectID = "PmH-GT-mgu"; */
+"PmH-GT-mgu.headerTitle" = "Приложение";
+
+/* Class = "UILabel"; text = "Auto"; ObjectID = "Wkp-r4-jGr"; */
+"Wkp-r4-jGr.text" = "Авто";
+
+/* Class = "UILabel"; text = "Share this app"; ObjectID = "YmF-NZ-b0k"; */
+"YmF-NZ-b0k.text" = "Поделиться с друзьями";
+
+/* Class = "UILabel"; text = "All"; ObjectID = "ddn-8q-ffG"; */
+"ddn-8q-ffG.text" = "Все";
+
+/* Class = "UILabel"; text = "Technology"; ObjectID = "dic-62-OO2"; */
+"dic-62-OO2.text" = "Технологии";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "qvK-g7-dgY"; */
+"qvK-g7-dgY.text" = "О приложении";

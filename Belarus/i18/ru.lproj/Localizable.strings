@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  Belarus
+
+  Created by Alex Nevsky on 11/19/16.
+  Copyright © 2016 Alex Nevsky. All rights reserved.
+*/
+
+"Belarus" = "Беларусь";
+"About" = "О приложении";
+
+"Menu" = "Меню";
+"Page" = "Страница";
+"Note" = "Заметка";
+"Article" = "Статья";
+"News" = "Новости";
+"Comments" = "Комментарии";
+
+"Main" = "Главная";
+
+"Unfortunately, nothing was found. Please try again later." = "К сожалению, ничего не найдено. Пожалуйста, попробуйте еще раз позже.";
+"Something wrong with Internet. Please try again later." = "Что-то не так с Интернетом. Пожалуйста, попробуйте еще раз позже.";
+"Oops!.. Some error occurred. Please try again later." = "Упс!.. Какие-то неполадки. Пожалуйста, попробуйте еще раз позже.";
+
+"Can't send email. Please check mail client and/or SIM card." = "Не получается отправить письмо. Пожалуйста, проверьте настройки почтового клиента и/или доступность связи.";
+
+"Rate App" = "Оценить приложение";
+"Thank you for using app. Please rate this app" = "Спасибо, что используете наше приложение! Мы будем очень рады получить вашу оценку приложения. \nЗаранее спасибо!";
+"Please tell us what you want this app be" = "Пожалуйста, расскажите нам о том, что вы хотели бы улучшить в приложении.";
+
+"Thumbs up!" = "Палец вверх!";
+"Nice" = "Мило";
+"Not good" = "Не очень";
+"Thanks!" = "Спасибо!";
+
+"Not now" = "Не сейчас";
+"Write" = "Написать";
+
+"Error" = "Ошибка";
+
+"I want to tell you about app the following" = "Мне бы хотелось сказать вам следующее:";
+"I love this amazing app!" = "Мне нравится это приложение! Еще никогда чтение Онлайнера не было таким простым, легким и красочным. А теперь все это - прямо в моем телефоне! Лайк ^_^";
